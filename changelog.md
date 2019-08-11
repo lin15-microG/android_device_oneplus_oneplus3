@@ -1,3 +1,11 @@
+August 11th, 2019
+
+- ASB Security string 2019-08-05
+- Bromite Webview on 76.0.3809.100
+- Aurorastore 3.0.9 with AuroraServices install method
+- OTA Support
+
+
 July 4th, 2019
 
 - ASB Security string 2019-07-05
