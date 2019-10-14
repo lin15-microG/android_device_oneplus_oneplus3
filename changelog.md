@@ -1,3 +1,10 @@
+October 13th, 2019
+
+- ASB Security string 2019-10-06
+- AuroraStore updated to 3.1.3
+- Bromite Webview on 77.0.3865.104
+
+
 September 10th, 2019
 
 - ASB Security string 2019-09-05
@@ -10,6 +17,7 @@ August 11th, 2019
 - Bromite Webview on 76.0.3809.100
 - Aurorastore 3.0.9 with AuroraServices install method
 - OTA Support
+- Updated microG GMS core 0.2.8.x
 
 
 July 4th, 2019
