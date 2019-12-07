@@ -1,3 +1,10 @@
+December 7th, 2019
+
+- ASB Security string 2019-12-05
+- Bromite Webview on 78.0.3904.119
+- AuroraStore updated to 3.1.5
+
+
 November 10th, 2019
 
 - ASB Security string 2019-11-05
